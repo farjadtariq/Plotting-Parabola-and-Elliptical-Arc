@@ -24,7 +24,6 @@ This Python program computes and plots the coordinates for a parabola and an ell
 - Python
 - NumPy for numerical calculations
 - Matplotlib for plotting graphs
-- Built-in `time` library for displaying the time of execution
 
 ## How to Run
 1. Clone the repository.
